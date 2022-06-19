@@ -1,7 +1,6 @@
 - 👋 Hey, I’m @LouisGresta
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Application programming especially Graphic Interfaces in my personnal projects
-- 📚 I'm currently at school for a 3 degree bachelor in YnovCampus and learn about embedded systems
+- 🌱 I’m currently learning Application programming in C++ 
+- 📚 I'm currently at school for a 3 degree bachelor in YnovCampus and learn about robotics and embedded systems
 - 📫 You can reach me at my mail address louis.gresta@ynov.com
 
 <!---
