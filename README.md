@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @LouisGresta
-- 🌱 I’m currently applying for a job
-- 📚 I successfully obtained my 3 degree bachelor in Ynov about robotics and embedded systems
+- 🌱 I’m currently applying for a job and learning more about electronics and 3D modeling
+- 📚 I successfully obtained my master in Ynov about robotics and embedded systems
 - 📫 You can reach me at my mail address louis.gresta@gmail.com
 
 <!---
